@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Alok00507/Alok00507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 🔭 Working on full-stack web development projects<br><br>🌱 Learning MERN stack & DevOps basics<br><br>👯 Open to collaborate on web & open-source projects<br><br>💬 Ask me about HTML, CSS, JS, React<br><br>⚡ Fun fact: Code + consistency = growth 💻
